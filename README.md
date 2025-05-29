@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Hyder.Ali58144@gmail.com**
 
-- ⚡ Fun fact **Switched from medicine to coding—built apps solo!**
+- ⚡ Fun fact **I Switched from medicine to coding—built apps solo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
