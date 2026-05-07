@@ -33,10 +33,13 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyderalipink&show_icons=true&theme=tokyonight" alt="Hyder's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyderalipink&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyderalipink&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyderalipink&theme=tokyonight" alt="Profile Details" />
+</p>
 
 ---
 
